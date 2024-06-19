@@ -11,4 +11,4 @@ def getValidInt(minNo, maxNo):
         except: # Execute on error
             print('Make sure you are entering a whole number')
 
-print(getValidInt(1,20)) # call with min and max integer values
+print('A valid number is', getValidInt(1,20)) # call with min and max integer values
