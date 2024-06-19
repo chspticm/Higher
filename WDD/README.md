@@ -22,22 +22,22 @@ Read and explain code that makes use of the above CSS.
 
 ##Implementation (HTML)
 Describe, exemplify and implement HTML code:
-- '<nav>'
-- '<header>'
-- '<footer>'
-- '<section>'
-- '<main>'
-- '<form>'
+- `<nav>`
+- `<header>`
+- `<footer>`
+- `<section>`
+- `<main>`
+- `<form>`
 - id attribute
 
 Describe, exemplify and implement form elements:
-- '<input type= >'
+- `<input type= >`
     - text
     - number
     - radio
     - submit
-- '<textarea>'
-- '<select>'
+- `<textarea>`
+- `<select>`
 
 Describe, exemplify and implement form data validation:
 - length
