@@ -1,4 +1,6 @@
-# SQA Higher Computing Science v3.0
+# SQA Higher Computing Science 
+# Software Design and Development
+# V3.0
 
 ## Implementation (data types and structures) 	
 Describe, exemplify and implement appropriately the following structures:

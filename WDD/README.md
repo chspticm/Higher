@@ -1,4 +1,6 @@
-# Higher Computing Science Web Design and Development (V3.0)
+# SQA Higher Computing Science 
+# Web Design and Development 
+# V3.0
 
 ##Implementation (CSS) 	
 Describe, exemplify and implement efficient inline, internal and external Cascading Style Sheets (CSS) using grouping and descendant selectors to:
