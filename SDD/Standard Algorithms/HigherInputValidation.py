@@ -8,7 +8,7 @@ def getValidInt(minNo, maxNo):
                 print('Error, the number must be between',minNo,'and',maxNo)
             else:
                 return number # early return of valid integer
-        except: # Execute on error
+        except ValueError: # Execute on wrong data type
             print('Make sure you are entering a whole number')
 
 print('A valid number is', getValidInt(1,20)) # call with min and max integer values
