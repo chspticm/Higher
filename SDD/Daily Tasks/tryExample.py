@@ -18,3 +18,5 @@ while True:
         break
     finally:
         print('The total is', total)
+        
+        
