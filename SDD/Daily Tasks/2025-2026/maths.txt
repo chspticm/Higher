@@ -1,0 +1,20 @@
+Pythagoras,of Samos,c. 570 BC,25,81
+Archimedes,of Syracuse,c. 287 BC,75,44
+Euclid,of Alexandria,c. 330 BC,13,67
+Muhammad,al-Khwarizmi,c. 780,84,33
+Omar,Khayyam,1048,15,58
+Leonardo,Fibonacci,c. 1170,8,13
+René,Descartes,1596,25,75
+Isaac,Newton,1643,84,9
+Gottfried Wilhelm,Leibniz,1646,31,64
+Leonhard,Euler,1707,76,21
+Carl Friedrich,Gauss,1777,77,15
+Augustin-Louis,Cauchy,1789,68,91
+Évariste,Galois,1811,20,5
+Georg,Cantor,1845,73,50
+David,Hilbert,1862,81,10
+Henri,Poincaré,1854,58,45
+Albert,Einstein,1879,76,31
+Emmy,Noether,1882,53,6
+Alan,Turing,1912,41,101
+Maryam,Mirzakhani,1977,40,78

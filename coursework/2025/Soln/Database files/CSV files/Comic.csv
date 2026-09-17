@@ -1,0 +1,101 @@
+comicID,comicTitle,issue,seriesID,publisherID,publicationDate,genre,valuation
+2,Ant-Gentleman Adventures,26,4,2,11/01/1998,Superhero,66
+3,Ant-Gentleman Adventures,39,4,2,24/04/2000,Superhero,56
+4,Aquaguy Quest,34,2,1,12/07/1987,Fantasy,295
+5,Aquaguy Quest,66,2,1,09/04/1989,Fantasy,217
+6,Aquaguy Quest,93,2,1,09/02/2000,Fantasy,125
+7,Duckguy Chronicles,4,3,4,13/02/1973,Mystery,558
+8,Duckguy Chronicles,42,3,4,24/05/1974,Mystery,473
+9,Duckguy Chronicles,94,3,4,10/05/1976,Mystery,367
+10,Beastly,21,4,2,22/02/1979,Superhero,329
+11,Big Panther Company,19,2,1,26/02/1983,Fantasy,482
+12,Captain Americana,7,5,3,10/11/1967,Horror,392
+13,Captain Americana,29,5,3,10/10/1968,Horror,263
+14,Captain Americana,38,5,3,05/05/1970,Horror,333
+15,Captain Americana,45,5,3,03/08/1971,Horror,131
+16,Wonderous Dare-Duck,25,4,2,27/02/2006,Fantasy,188
+17,Wonderous Dare-Duck,79,4,2,11/09/2007,Fantasy,174
+18,Wonderous Dare-Duck,100,4,2,10/07/2009,Fantasy,138
+19,Deadline,31,5,3,24/09/2011,Horror,351
+20,Deadline,97,5,3,27/10/2019,Horror,170
+21,Falconer Fusion,4,4,2,15/02/1962,Science Fiction,589
+22,Falconer Fusion,14,4,2,18/08/1962,Science Fiction,403
+23,Falconer Fusion,20,4,2,22/09/1962,Science Fiction,302
+24,Falconer Fusion,61,4,2,04/07/1963,Science Fiction,262
+25,Falconer Fusion,87,4,2,25/05/1964,Science Fiction,202
+26,Falconer Fusion,91,4,2,26/06/1964,Science Fiction,146
+27,Gambler,59,3,4,08/11/1976,Fantasy,126
+28,Gambler,60,3,4,14/11/1976,Fantasy,126
+29,Gambler,61,3,4,21/11/1976,Fantasy,126
+30,Gambler,72,3,4,11/12/1976,Fantasy,121
+31,Ghost Lighter Returns,33,1,1,01/11/1995,Science Fiction,396
+32,Ghost Lighter Returns,96,1,1,25/12/1995,Science Fiction,296
+33,Ghost Lighter Returns,100,1,1,22/04/1996,Science Fiction,211
+34,Green Growl Rebirth,26,1,1,28/12/1975,Superhero,94
+35,Green Growl Rebirth,35,1,1,21/01/1975,Science Fiction,84
+36,Green Growl Rebirth,53,1,1,17/05/1976,Superhero,83
+37,Green Growl Rebirth,71,1,1,23/09/1976,Horror,76
+38,Green Lamplight Avenged,18,1,1,15/10/1983,Fantasy,580
+39,Green Lamplight Avenged,61,1,1,26/09/1984,Fantasy,395
+40,Green Lamplight Avenged,72,1,1,03/10/1984,Fantasy,163
+41,Hawked Eye Backward,11,5,3,21/11/2005,Superhero,270
+42,Hawked Eye Backward,20,5,3,04/05/2006,Superhero,233
+43,Hawked Eye Backward,28,5,3,11/10/2006,Superhero,145
+44,Hawked Eye Backward,95,5,3,14/08/2008,Superhero,94
+45,Hulkbuster Smash,14,3,4,15/02/2003,Science Fiction,73
+46,Hulkbuster Smash,94,3,4,20/10/2003,Science Fiction,44
+47,Human Scorch Fever,80,3,4,06/01/2007,Horror,65
+48,Invisible Womanly Cross,99,1,1,01/12/1980,Science Fiction,214
+49,Iron Duck Fights Back,48,2,1,17/03/1962,Superhero,476
+50,Iron Duck Fights Back,64,2,1,25/04/1964,Fantasy,305
+51,Jean Greyskull Ignited,11,3,4,21/01/2003,Science Fiction,145
+52,Jean Greyskull Ignited,30,3,4,07/03/2003,Science Fiction,17
+53,Jean Greyskull Ignited,35,3,4,08/04/2003,Science Fiction,15
+54,Jean Greyskull Ignited,77,3,4,09/05/2003,Science Fiction,9
+55,Mr. Fantastical,18,1,1,25/03/1976,Mystery,65
+56,Nightcrawlerly,6,4,2,23/05/1976,Superhero,601
+57,Nightcrawlerly,19,4,2,21/07/1976,Superhero,462
+58,Nightcrawlerly,47,4,2,26/07/1977,Superhero,351
+59,Plastic Chap,22,1,1,18/07/1989,Science Fiction,430
+60,Plastic Chap,28,1,1,04/10/1989,Science Fiction,317
+61,Plastic Chap,83,1,1,18/10/1990,Science Fiction,168
+62,Professor XYZ,18,4,2,01/02/2005,Superhero,60
+63,Professor XYZ,64,4,2,11/11/2006,Superhero,30
+64,Quick Silver,29,3,4,23/08/2003,Mystery,83
+65,Quick Silver,82,3,4,26/06/2005,Mystery,54
+66,Rescue Ranger,33,4,2,09/06/1980,Mystery,381
+67,Rescue Ranger,44,4,2,13/07/1980,Mystery,309
+68,Rescue Ranger,88,4,2,15/12/1982,Mystery,122
+69,Rogue Runner,5,2,1,26/01/2013,Science Fiction,16
+70,Scarlet Sorceress,13,4,2,03/07/2008,Fantasy,62
+71,Scarlet Sorceress,24,4,2,02/08/2008,Fantasy,31
+72,Scarlet Sorceress,39,4,2,17/10/2008,Fantasy,24
+73,Scarlet Sorceress,66,4,2,15/09/2009,Fantasy,13
+74,Scarlet Sorceress,95,4,2,13/03/2010,Fantasy,10
+75,Silver Surface,5,1,1,19/06/1960,Superhero,590
+76,Silver Surface,55,1,1,06/10/1960,Superhero,444
+77,Silver Surface,84,1,1,14/06/1961,Superhero,177
+78,Starlordly,87,3,4,22/01/1986,Horror,231
+79,Stormy Weather,68,5,3,14/12/2007,Horror,80
+80,Stormy Weather,69,5,3,27/12/2007,Horror,43
+81,Stormy Weather,85,5,3,15/03/2008,Horror,21
+82,Superdude,11,4,2,19/08/1969,Fantasy,840
+83,Superdude,66,4,2,20/12/1969,Fantasy,486
+84,Superdude,71,4,2,21/01/1970,Fantasy,369
+85,Superdude,86,4,2,02/02/1970,Fantasy,233
+86,The Flashy,3,2,1,04/06/2000,Superhero,20
+87,The Flashy,19,2,1,05/07/2000,Superhero,10
+88,The Flashy,40,2,1,06/08/2000,Superhero,6
+89,The Flashy,48,2,1,27/08/2000,Superhero,5
+90,The Incredible Sulk,6,2,1,25/07/1968,Mystery,579
+91,The Incredible Sulk,20,2,1,11/09/1968,Mystery,528
+92,The Incredible Sulk,94,2,1,13/08/1969,Mystery,354
+93,The Pun-isher,58,5,3,12/04/2011,Superhero,10
+94,The Pun-isher,60,5,3,23/04/2011,Superhero,9
+95,The Pun-isher,61,5,3,30/04/2011,Superhero,8
+96,Visionary,8,2,1,18/12/2005,Superhero,14
+97,Visionary,94,2,1,21/05/2006,Superhero,3
+98,War Marchine,2,5,3,20/01/1974,Fantasy,225
+99,War Marchine,46,5,3,19/08/1974,Fantasy,122
+100,Wolveroon,16,2,1,20/03/2010,Horror,31
+101,Wolveroon,64,2,1,07/02/2011,Horror,25

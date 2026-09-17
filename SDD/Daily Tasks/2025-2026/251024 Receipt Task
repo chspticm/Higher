@@ -1,0 +1,9 @@
+'''
+Read the attached file into an Array of records
+Check that the line total is correct for all items. You can test this by changing the price or line total in the CSV file.
+How many items in total were purchased?
+What was the total price of the weekly shop?
+What was the average price per item?
+Display the category and item, without the part in the brackets. i.e. Meat - Chicken Breast
+Ask the user for a category and display all items in that category.
+'''
